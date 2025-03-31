@@ -1,11 +1,11 @@
-## Hospitality Revenue Analytics Dashboard 
+# Hospitality Revenue Analytics Dashboard 
 
 
-# Project Overview
+## Project Overview
 
 This Power BI dashboard provides comprehensive revenue analytics for AtliQ Grands, a chain of luxury and business hotels across India. The solution was developed to help management regain market share by making data-driven decisions based on historical performance metrics.
 
-# Business Context
+## Business Context
 AtliQ Grands has been facing:
 
 Declining market share in the luxury/business hotel category
@@ -16,7 +16,7 @@ Intense competition in key markets
 
 This dashboard provides the data intelligence needed to reverse these trends.
 
-# Key Features
+## Key Features
 
 1. Performance Metrics Tracking
 Revenue: Total generated and realized revenue across properties
@@ -55,7 +55,7 @@ Realization percentage by booking channel
 
 Cancellation impact on revenue
 
-# Data Sources
+## Data Sources
 The dashboard integrates data from multiple tables:
 
 dim_date: Date dimensions with week numbers
@@ -68,7 +68,7 @@ fact_aggregated_bookings: Capacity and successful bookings
 
 fact_bookings: Detailed transaction records
 
-# How to Use the Dashboard
+## How to Use the Dashboard
 Executive Summary: Start with the KPI cards for an overview
 
 Property Drill-down: Filter by city or property for detailed analysis
@@ -79,8 +79,8 @@ Category Comparison: Compare Luxury vs Business performance
 
 Channel Effectiveness: Evaluate different booking platforms
 
-# Key Insights Identified
-# Revenue Opportunities:
+## Key Insights Identified
+## Revenue Opportunities:
 
 24.84% average cancellation rate represents significant revenue leakage
 
@@ -88,7 +88,7 @@ Weekend occupancy is 6.79% higher than weekdays
 
 Luxury properties show higher ADR but similar occupancy to business hotels
 
-# Performance Variations:
+## Performance Variations:
 
 Mumbai properties generate the highest revenue
 
@@ -96,7 +96,7 @@ Bangalore Atliq Blu shows unusually low occupancy (53.25%) compared to peers
 
 Direct online bookings have highest realization rates (70.57%)
 
-# Seasonal Patterns:
+## Seasonal Patterns:
 
 Week 22 showed peak revenue performance
 
