@@ -1,5 +1,8 @@
 Hospitality Revenue Analytics Dashboard 
+
+
 Project Overview
+
 This Power BI dashboard provides comprehensive revenue analytics for AtliQ Grands, a chain of luxury and business hotels across India. The solution was developed to help management regain market share by making data-driven decisions based on historical performance metrics.
 
 Business Context
