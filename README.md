@@ -17,6 +17,7 @@ Intense competition in key markets
 This dashboard provides the data intelligence needed to reverse these trends.
 
 Key Features
+
 1. Performance Metrics Tracking
 Revenue: Total generated and realized revenue across properties
 
